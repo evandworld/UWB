@@ -3,6 +3,6 @@ date:2022-4-7
 # UWB
 UWB study
 ## about
-A matlab function that inputs the coordinates and error values of the points to be located and outputs the coordinates after positioning
+A matlab function. Input the coordinates and error value of the point to be located, and output the coordinates after positioning
 ## for Chinese explanation ：
 https://blog.csdn.net/callmeup/article/details/124016466
